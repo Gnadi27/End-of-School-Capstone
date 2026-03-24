@@ -19,8 +19,6 @@ The following figure shows the final concept of the automated plant and provides
 
 ![Final concept overview of the automated loading and unloading system](readme_imgs/Abbildung1.png)
 
-*Final concept overview of the automated loading and unloading system for gas nitriding parts.*
-
 ## Contents
 
 - `Automatisierte Be- und Entladung von Gasnitrierteilen.pdf` – written thesis document
